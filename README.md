@@ -1,6 +1,6 @@
 <!-- HEADER BANNER DINÁMICO -->
 <p align="center">
-  <img src="https://svg-banners.mybluemix.net/api?type=origin&text1=Ing.%20Anhgelo%20Smith%20Vega%20Poma&text2=Fullstack%20Developer%20%7C%20SysAdmin%20Architect%20%7C%20CIP%20381913&width=800&height=140" alt="Header Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&height=70&lines=Ing.+Anhgelo+Smith+Vega+Poma;Fullstack+Developer+%26+SysAdmin+Architect;CIP+381913+%7C+Pasco%2C+Per%C3%BA" alt="Header Banner" />
 </p>
 
 ### Ingeniero de Sistemas y Computación | CIP N° 381913
